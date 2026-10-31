@@ -1,0 +1,3 @@
+# Desktop tools/tests only. K230 uses the cv2 built into the Yahboom firmware.
+numpy>=1.26,<3
+opencv-python-headless>=4.8,<6

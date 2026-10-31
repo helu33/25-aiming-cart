@@ -1,0 +1,11 @@
+{
+  "note": "Template only. Replace nulls with real pixels; provide >=6 samples across 500/1000/1500 mm. Corners: physical TL, TR, BR, BL. spot_px: measured laser spot center in the SAME raw image.",
+  "samples": [
+    {
+      "width": 640,
+      "height": 480,
+      "corners_px": [[null, null], [null, null], [null, null], [null, null]],
+      "spot_px": [null, null]
+    }
+  ]
+}

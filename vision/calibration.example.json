@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "camera": {
+    "calibrated": false,
+    "width": 640,
+    "height": 480,
+    "hmirror": false,
+    "vflip": false,
+    "fx": null,
+    "fy": null,
+    "cx": null,
+    "cy": null,
+    "distortion": [0, 0, 0, 0, 0]
+  },
+  "laser": {
+    "calibrated": false,
+    "origin_mm": [0, -18, 0],
+    "direction": null
+  }
+}

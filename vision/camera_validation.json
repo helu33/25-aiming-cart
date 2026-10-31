@@ -1,0 +1,78 @@
+{
+  "board_squares": [
+    10,
+    7
+  ],
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_mm": 20,
+  "total_images": 91,
+  "used_images": 85,
+  "rms_px": 0.3914638389087441,
+  "median_view_rms_px": 0.20093853771686554,
+  "max_view_rms_px": 1.6469390392303467,
+  "observed_corner_bounds_px": [
+    [
+      77.52212524414062,
+      46.17318344116211
+    ],
+    [
+      525.5410766601562,
+      455.78546142578125
+    ]
+  ],
+  "tilt_range_deg": [
+    0.5708378009034495,
+    58.477792369386364
+  ],
+  "worst_views": [
+    {
+      "image": "frame_104640_0.bmp",
+      "rms_px": 1.6469390392303467,
+      "max_corner_px": 7.402456760406494,
+      "tilt_deg": 11.86887080746459
+    },
+    {
+      "image": "frame_50759_0.bmp",
+      "rms_px": 1.579179048538208,
+      "max_corner_px": 8.273201942443848,
+      "tilt_deg": 21.752779399148313
+    },
+    {
+      "image": "frame_73490_0.bmp",
+      "rms_px": 1.213630199432373,
+      "max_corner_px": 7.8855299949646,
+      "tilt_deg": 33.12151284334144
+    },
+    {
+      "image": "frame_64993_0.bmp",
+      "rms_px": 1.0960721969604492,
+      "max_corner_px": 5.602593898773193,
+      "tilt_deg": 20.866256040410043
+    },
+    {
+      "image": "frame_67073_0.bmp",
+      "rms_px": 0.9609127640724182,
+      "max_corner_px": 6.501550674438477,
+      "tilt_deg": 28.59449895739784
+    },
+    {
+      "image": "frame_88108_0.bmp",
+      "rms_px": 0.44809189438819885,
+      "max_corner_px": 1.3495383262634277,
+      "tilt_deg": 12.73992713358616
+    }
+  ],
+  "holdout": {
+    "training_count": 68,
+    "validation_count": 17,
+    "training_rms_px": 0.3475794912880825,
+    "mean_validation_view_rms_px": 0.36016825104461,
+    "max_validation_view_rms_px": 1.5814707279205322,
+    "fx_change_percent": 0.0045235457952319535,
+    "fy_change_percent": 0.03127034867014267,
+    "note": "Every fifth successful image by filename withheld. Related capture poses may appear in both sets; not independent physical accuracy validation."
+  }
+}
